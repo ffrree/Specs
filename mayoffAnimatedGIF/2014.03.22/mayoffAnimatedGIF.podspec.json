@@ -1,0 +1,28 @@
+{
+  "name": "mayoffAnimatedGIF",
+  "version": "2014.03.22",
+  "license": {
+    "type": "CC0 1.0",
+    "file": "COPYRIGHT"
+  },
+  "homepage": "https://github.com/mayoff/uiimage-from-animated-gif",
+  "summary": "Adds animatedGifWithAnimatedGifData methods to UIImage.",
+  "source": {
+    "git": "https://github.com/mayoff/uiimage-from-animated-gif.git",
+    "commit": "f960aec840c5f2eea970689ab67df3fa71393e75"
+  },
+  "authors": [
+    {
+      "Rob Mayoff": "githubprofile@rob.dqd.com"
+    }
+  ],
+  "source_files": "uiimage-from-animated-gif/UIImage+animatedGif.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "6.0"
+  },
+  "frameworks": [
+    "UIKit",
+    "ImageIO"
+  ]
+}
