@@ -9,8 +9,8 @@
     "Cyrus": "cyrusn@stwing.upenn.edu"
   },
   "source": {
-    "git": "https://github.com/kakugawa/protobuf-objc.git",
-    "commit": "79fc33f420cd84113f16448bb22f728cc65334be"
+    "git": "https://github.com/ffrree/protobuf-objc.git",
+    "commit": "474b22efeb03a5454b9d345ebb54760982117500"
   },
   "source_files": "src/runtime/Classes/*.{h,m}",
   "xcconfig": {
