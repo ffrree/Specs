@@ -1,7 +1,7 @@
 {
   "name": "ProtobufObjC",
   "header_dir": "ProtocolBuffers",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "Apache License, Version 2.0",
   "summary": "An implementation of Protocol Buffers in Objective C.",
   "homepage": "http://code.google.com/p/metasyntactic/wiki/ProtocolBuffers",
